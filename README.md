@@ -1,0 +1,3 @@
+# chat_app
+
+This is simple chat application, more features coming soon...
