@@ -1,1 +1,2 @@
-./nodeserver/node_modules
+# dependencies
+/nodeserver/node_modules
